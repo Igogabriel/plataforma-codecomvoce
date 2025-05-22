@@ -1,0 +1,80 @@
+{
+    "gabi": {
+        "nome": "gabi xavier",
+        "idade": "18",
+        "email": "gabi.xavier",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "elaine": {
+        "nome": "elaine",
+        "idade": "18",
+        "email": "elaine.rocha",
+        "senha": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    "kleber": {
+        "nome": "Kleber lopes mantana",
+        "idade": "37",
+        "email": "igorgabriel.xavier.sp@gmail.com",
+        "senha": "444369efbe42e6892758020f068a0dca130ea1a4c3e9832bae2ac7e7bf709b2b"
+    },
+    "vitoria": {
+        "nome": "Vitoria Vidal Moreira",
+        "idade": "25",
+        "email": "vitoria.vidal@gmail.com",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "matheus": {
+        "nome": "Matheus Cerveja",
+        "idade": "18",
+        "email": "matheus.cerveja",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "gabriel": {
+        "nome": "Gabriel silvestre",
+        "idade": "18",
+        "email": "gabriel.silvestre",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "xavier": {
+        "nome": "Xavier lopes",
+        "idade": "18",
+        "email": "igorgabriel",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "xara": {
+        "nome": "xara xavier",
+        "idade": "18",
+        "email": "xara.com",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "3": {
+        "nome": "3",
+        "idade": "18",
+        "email": "igor",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "oliver": {
+        "nome": "Oliver Xavier Lopes",
+        "idade": "18",
+        "email": "oliver.xavier",
+        "senha": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    "kleber lopes": {
+        "nome": "Kleber lopes mantana",
+        "idade": "35",
+        "email": "kleber.lopes",
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5"
+    },
+    "valletin": {
+        "nome": "Valletin lopes",
+        "idade": "5 meses",
+        "email": "valletin.lopes",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "roberto": {
+        "nome": "roberto da silva",
+        "idade": "18",
+        "email": "roberto.silva",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    }
+}

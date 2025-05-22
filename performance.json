@@ -1,0 +1,116 @@
+{
+    "gabi": [
+        {
+            "pensamento_computacional": 4
+        },
+        {
+            "seguranca_digital": 1
+        },
+        {
+            "programacao_python": 3
+        }
+    ],
+    "elaine": [
+        {
+            "pensamento_computacional": 5
+        }
+    ],
+    "vitoria": [
+        {
+            "pensamento_computacional": 7
+        },
+        {
+            "seguranca_digital": 3
+        },
+        {
+            "programacao_python": 6
+        }
+    ],
+    "matheus": [
+        {
+            "pensamento_computacional": 6
+        },
+        {
+            "seguranca_digital": 2
+        },
+        {
+            "programacao_python": 5
+        },
+        {
+            "pensamento_computacional": {
+                "nota": 8,
+                "tempo": 75.74,
+                "tempo_pdf": 187.11
+            }
+        },
+        {
+            "seguranca_digital": {
+                "nota": 8,
+                "tempo": 65.98,
+                "tempo_pdf": 76.77
+            }
+        },
+        {
+            "programacao_python": {
+                "nota": 8,
+                "tempo": 47.4,
+                "tempo_pdf": 158.23
+            }
+        }
+    ],
+    "xavier": [
+        {
+            "pensamento_computacional": {
+                "nota": 7,
+                "tempo": 29.86,
+                "tempo_pdf": 39.29
+            }
+        },
+        {
+            "seguranca_digital": {
+                "nota": 4,
+                "tempo": 21.51,
+                "tempo_pdf": 41.47
+            }
+        },
+        {
+            "programacao_python": {
+                "nota": 5,
+                "tempo": 12.72,
+                "tempo_pdf": 15.47
+            }
+        }
+    ],
+    "oliver": [
+        {
+            "pensamento_computacional": {
+                "nota": 6,
+                "tempo": 51.67,
+                "tempo_pdf": 78.06
+            }
+        }
+    ],
+    "kleber lopes": [
+        {
+            "pensamento_computacional": {
+                "nota": 5,
+                "tempo": 7.07,
+                "tempo_pdf": 8.14
+            }
+        },
+        {
+            "seguranca_digital": {
+                "nota": 3,
+                "tempo": 5.37,
+                "tempo_pdf": 4.72
+            }
+        },
+        {
+            "programacao_python": {
+                "nota": 6,
+                "tempo": 7.33,
+                "tempo_pdf": 4.57
+            }
+        }
+    ]
+}

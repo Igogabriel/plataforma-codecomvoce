@@ -1,0 +1,14 @@
+{
+    "pensamento_computacional": {
+        "titulo": "Pensamento Computacional",
+        "conteudo": "Pensamento Computacional é uma habilidade fundamental que permite resolver problemas complexos de forma lógica e eficiente...\n\n📄 PDF disponível em: materiais/pensamento_computacional.pdf"
+    },
+    "seguranca_digital": {
+        "titulo": "Segurança Digital",
+        "conteudo": "Segurança Digital é o conjunto de práticas que visam proteger os dados pessoais...\n\n📄 PDF disponível em: materiais/seguranca_digital.pdf"
+    },
+    "programacao_python": {
+        "titulo": "Programação em Python",
+        "conteudo": "Python é uma linguagem de programação moderna, simples e poderosa...\n\n📄 PDF disponível em: materiais/programacao_python.pdf"
+    }
+}

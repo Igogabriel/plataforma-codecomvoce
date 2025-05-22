@@ -1,0 +1,308 @@
+{
+    "pensamento_computacional": [
+        {
+            "pergunta": "O que é pensamento computacional?",
+            "opcoes": [
+                "Uma linguagem de programação",
+                "Uma forma de resolver problemas",
+                "Um software",
+                "Um algoritmo"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual é um dos pilares do pensamento computacional?",
+            "opcoes": [
+                "Compilação",
+                "Criptografia",
+                "Decomposição",
+                "Engenharia de software"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "O que é abstração?",
+            "opcoes": [
+                "Copiar código",
+                "Ignorar erros",
+                "Focar no essencial",
+                "Desenhar algoritmos"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Reconhecimento de padrões ajuda a:",
+            "opcoes": [
+                "Ignorar problemas",
+                "Resolver erros",
+                "Identificar similaridades",
+                "Criar linguagens"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Pensamento computacional é usado apenas em:",
+            "opcoes": [
+                "Matemática",
+                "Programação",
+                "Várias áreas",
+                "Biologia"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Um algoritmo é:",
+            "opcoes": [
+                "Erro de sistema",
+                "Conjunto de instruções",
+                "Programa final",
+                "Hardware"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Decomposição é útil para:",
+            "opcoes": [
+                "Criar bugs",
+                "Aumentar complexidade",
+                "Dividir problemas",
+                "Desenhar interfaces"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "A abstração ignora:",
+            "opcoes": [
+                "O problema",
+                "A lógica",
+                "Os detalhes irrelevantes",
+                "As soluções"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "A construção de algoritmos é:",
+            "opcoes": [
+                "Arte",
+                "Mágica",
+                "Processo lógico",
+                "Impossível"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Reconhecer padrões facilita:",
+            "opcoes": [
+                "Escrever livros",
+                "Programar sem lógica",
+                "Resolver problemas",
+                "Ignorar falhas"
+            ],
+            "resposta": 2
+        }
+    ],
+    "seguranca_digital": [
+        {
+            "pergunta": "O que é phishing?",
+            "opcoes": [
+                "Antivírus",
+                "E-mail falso para enganar",
+                "Tipo de firewall",
+                "Backup automático"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Para proteger dados, é bom:",
+            "opcoes": [
+                "Usar redes públicas",
+                "Desativar antivírus",
+                "Fazer backups",
+                "Ignorar atualizações"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Autenticação de dois fatores é:",
+            "opcoes": [
+                "Uma senha",
+                "Verificação dupla",
+                "Nome de usuário",
+                "Login automático"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Senhas fortes devem:",
+            "opcoes": [
+                "Ser curtas",
+                "Conter dados pessoais",
+                "Ser únicas e complexas",
+                "Ser iguais em todos os sites"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Evite conectar-se a:",
+            "opcoes": [
+                "Redes protegidas",
+                "Wi-Fi público inseguro",
+                "VPNs",
+                "Computadores pessoais"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Segurança digital protege:",
+            "opcoes": [
+                "Somente bancos",
+                "Somente empresas",
+                "Apenas sistemas",
+                "Identidade e dados"
+            ],
+            "resposta": 3
+        },
+        {
+            "pergunta": "Atualizações do sistema são:",
+            "opcoes": [
+                "Desnecessárias",
+                "Apenas visuais",
+                "Importantes para segurança",
+                "Sempre problemáticas"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Antivírus serve para:",
+            "opcoes": [
+                "Instalar vírus",
+                "Detectar ameaças",
+                "Deletar arquivos",
+                "Usar mais memória"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Uma boa prática é:",
+            "opcoes": [
+                "Desligar o firewall",
+                "Deixar o PC sem senha",
+                "Usar autenticação",
+                "Usar mesma senha"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Phishing pode ser evitado com:",
+            "opcoes": [
+                "Abrindo todos os links",
+                "Verificando remetente",
+                "Clicando rápido",
+                "Respondendo e-mails"
+            ],
+            "resposta": 1
+        }
+    ],
+    "programacao_python": [
+        {
+            "pergunta": "Qual comando imprime algo na tela?",
+            "opcoes": [
+                "print",
+                "show",
+                "echo",
+                "display"
+            ],
+            "resposta": 0
+        },
+        {
+            "pergunta": "Qual símbolo é usado para atribuição?",
+            "opcoes": [
+                "==",
+                ":",
+                "=",
+                "->"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Qual tipo representa texto?",
+            "opcoes": [
+                "int",
+                "str",
+                "float",
+                "bool"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual estrutura faz repetição?",
+            "opcoes": [
+                "if",
+                "for",
+                "else",
+                "try"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Funções começam com:",
+            "opcoes": [
+                "call",
+                "def",
+                "func",
+                "start"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual estrutura faz decisão?",
+            "opcoes": [
+                "def",
+                "loop",
+                "if",
+                "list"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Listas armazenam:",
+            "opcoes": [
+                "Uma variável",
+                "Vários valores",
+                "Somente números",
+                "Funções"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Para comparar valores usamos:",
+            "opcoes": [
+                "=",
+                "==",
+                "!",
+                "equals"
+            ],
+            "resposta": 1
+        },
+        {
+            "pergunta": "input() serve para:",
+            "opcoes": [
+                "Imprimir",
+                "Calcular",
+                "Receber dados",
+                "Encerrar"
+            ],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Python é ideal para:",
+            "opcoes": [
+                "Somente jogos",
+                "Somente apps",
+                "Somente hardware",
+                "Diversas aplicações"
+            ],
+            "resposta": 3
+        }
+    ]
+}
